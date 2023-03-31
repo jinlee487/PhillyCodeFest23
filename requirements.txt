@@ -1,0 +1,12 @@
+flask
+opencv-python
+numpy
+mediapipe
+pyautogui
+roboflow
+asyncio
+httpx
+numpy
+opencv-python
+requests
+python-dotenv
